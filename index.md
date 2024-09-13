@@ -10,9 +10,9 @@ Audio token modeling has become a powerful framework for speech synthesis, with 
 
 ## Demos
 
-The following examples are selected from the listening test described in the paper, which are generated from LibriSpeech test-clean subset. The models to compare include one single-stage model (NARSiS) without SKD (semantic knowledge distillation), two single-stage models with SDK, and a two-stage model.
+The following examples are selected from the listening test described in the paper, which are generated from LibriSpeech test-clean subset. The models to compare include one single-stage model (NARSiS) without SKD (semantic knowledge distillation), one single-stage models with SDK, and a two-stage model.
 
-### this evening they all said
+### Text: "this evening they all said"
 <html>
 <table>
   <tr>
@@ -48,6 +48,47 @@ The following examples are selected from the listening test described in the pap
     <td>
         <audio controls>
         <source src="audios/672-122797-0028.gt.wav">
+        </audio>
+    </td>
+  </tr>
+</table>
+</html>
+### Text: "the paris plant like that at the crystal palace was a temporary exhibit"
+<html>
+<table>
+  <tr>
+    <td>
+      NARSiS<sub>base</sub>
+    </td>
+    <td>
+      NARSiS<sub>avg</sub>
+    </td>
+    <td>
+      NAT 2-stage
+    </td>
+    <td>
+      Ground truth
+    </td>
+  </tr>
+  <tr> 
+    <td>
+        <audio controls>
+        <source src="audios/2300-131720-0000.vanilla.wav">
+        </audio>
+    </td>
+    <td>
+        <audio controls>
+        <source src="audios/2300-131720-0000.avg.wav">
+        </audio>
+    </td>
+    <td>
+        <audio controls>
+        <source src="audios/2300-131720-0000.2stages.wav">
+        </audio>
+    </td>
+    <td>
+        <audio controls>
+        <source src="audios/2300-131720-0000.gt.wav">
         </audio>
     </td>
   </tr>
