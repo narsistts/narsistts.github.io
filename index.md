@@ -422,47 +422,6 @@ The following examples are selected from the listening test described in the pap
   </tr>
 </table>
 </html>
-#### Text: "he makes it sort of cozier"
-<html>
-<table>
-  <tr>
-    <td>
-      NARSiS<sub>base</sub>
-    </td>
-    <td>
-      NARSiS<sub>avg</sub>
-    </td>
-    <td>
-      NAT 2-stage
-    </td>
-    <td>
-      Ground truth
-    </td>
-  </tr>
-  <tr> 
-    <td>
-        <audio controls>
-        <source src="audios/6930-76324-0018.vanilla.wav">
-        </audio>
-    </td>
-    <td>
-        <audio controls>
-        <source src="audios/6930-76324-0018.avg.wav">
-        </audio>
-    </td>
-    <td>
-        <audio controls>
-        <source src="audios/6930-76324-0018.2stages.wav">
-        </audio>
-    </td>
-    <td>
-        <audio controls>
-        <source src="audios/6930-76324-0018.gt.wav">
-        </audio>
-    </td>
-  </tr>
-</table>
-</html>
 #### Text: "he has given them with too much grace not to have others still to give if they are required which is the case at the present moment"
 <html>
 <table>
