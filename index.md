@@ -196,22 +196,22 @@ The following examples are selected from the listening test described in the pap
   <tr> 
     <td>
         <audio controls>
-        <source src="audios/4507-16021-0049.vanilla.wav">
+        <source src="audios/4970-29093-0014.vanilla.wav">
         </audio>
     </td>
     <td>
         <audio controls>
-        <source src="audios/4507-16021-0049.avg.wav">
+        <source src="audios/4970-29093-0014.avg.wav">
         </audio>
     </td>
     <td>
         <audio controls>
-        <source src="audios/4507-16021-0049.2stages.wav">
+        <source src="audios/4970-29093-0014.2stages.wav">
         </audio>
     </td>
     <td>
         <audio controls>
-        <source src="audios/4507-16021-0049.gt.wav">
+        <source src="audios/4970-29093-0014.gt.wav">
         </audio>
     </td>
   </tr>
