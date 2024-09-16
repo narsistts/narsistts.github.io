@@ -23,7 +23,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -64,7 +64,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -105,7 +105,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -146,7 +146,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -187,7 +187,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -228,7 +228,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -269,7 +269,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -310,7 +310,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -351,7 +351,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -392,7 +392,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -433,7 +433,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -474,7 +474,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
@@ -515,7 +515,7 @@ The following examples are selected from the listening test described in the pap
       NARSiS<sub>avg</sub>
     </td>
     <td>
-      NAT 2-stage
+      NAR 2-stage
     </td>
     <td>
       Ground truth
