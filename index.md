@@ -10,7 +10,7 @@ Audio token modeling has become a powerful framework for speech synthesis, with 
 
 ## Demos
 
-The following examples are selected from the listening test described in the paper, which are generated from LibriSpeech test-clean subset. The models to compare include the one-stage model without semantic knowledge distillation (NARSiS~base~), one-stage model with semantic knowledge distillation (NARSiS~avg~), and the two-stage model (NAR 2-stage).
+The following examples are selected from the listening test described in the paper, which are generated from LibriSpeech test-clean subset. The models to compare include the one-stage model without semantic knowledge distillation (NARSiS<sub>base</sub>), one-stage model with semantic knowledge distillation (NARSiS<sub>avg</sub>), and the two-stage model (NAR 2-stage).
 
 #### Text: "this evening they all said"
 <html>
